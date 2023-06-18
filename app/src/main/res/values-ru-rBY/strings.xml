@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задание 1: Разметка</string>
+    <string name="stu_name">Мостовой Алексей</string>
+    <string name="spc_name">Математика. Разработка мобильных приложений</string>
+    <string name="group_id">04</string>
+    <string name="ori_vert">Книжный вид</string>
+    <string name="ori_land">Альбомный вид</string>
+</resources>

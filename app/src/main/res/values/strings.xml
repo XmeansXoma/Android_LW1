@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task 1: Markup</string>
+    <string name="stu_name">Mostovoy Aleksey</string>
+    <string name="spc_name">Mathematics. Mobile software development</string>
+    <string name="group_id">04</string>
+    <string name="ori_vert">Portrait View</string>
+    <string name="ori_land">Landscape View</string>
+</resources>
