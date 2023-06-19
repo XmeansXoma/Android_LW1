@@ -20,7 +20,7 @@
             android:text="@string/stu_name"
             android:textAlignment="center"
             android:textColor="#0000FF"
-            android:textSize="32sp"
+            android:textSize="48sp"
             android:textStyle="bold" />
 
         <TextView
@@ -30,7 +30,7 @@
             android:text="@string/spc_name"
             android:textAlignment="center"
             android:textColor="#0000FF"
-            android:textSize="14sp"
+            android:textSize="24sp"
             android:textStyle="bold" />
 
         <TextView
@@ -40,17 +40,18 @@
             android:text="@string/group_id"
             android:textAlignment="center"
             android:textColor="#0000FF"
-            android:textSize="12sp"
+            android:textSize="14sp"
             android:textStyle="bold" />
 
         <TextView
             android:id="@+id/Orientation"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="center_horizontal"
+            android:gravity="bottom|center_horizontal"
             android:text="@string/ori_vert"
             android:textAlignment="center"
             android:textColor="#0000FF"
+            android:textSize="14sp"
             android:textStyle="bold" />
     </LinearLayout>
 
